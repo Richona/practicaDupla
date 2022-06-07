@@ -1,2 +1,2 @@
 console.log("muchos");
-console.log("pocos");
+console.log("bastantes");
